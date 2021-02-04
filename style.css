@@ -1,0 +1,19 @@
+#-- {
+    background-color: rgb(163, 25, 53);
+    width: 150%;
+    color: whitesmoke;
+    margin-left: 500px;
+    margin-top: -500px;
+    height: 500px;
+}
+button {
+    color: black;
+}
+
+#things {
+    margin-top: 20%;
+}
+
+body {
+    background-color: rgb(189, 29, 104);
+}
