@@ -2,9 +2,9 @@
     background-color: rgb(163, 25, 53);
     width: 150%;
     color: whitesmoke;
-    margin-left: 500px;
-    margin-top: -500px;
-    height: 500px;
+    margin-left: 550px;
+    margin-top: -510px;
+    height: 450px;
 }
 button {
     color: black;
@@ -15,5 +15,12 @@ button {
 }
 
 body {
-    background-color: rgb(189, 29, 104);
+    background-color: rgb(76, 25, 170);
+    color: white;
+}
+#img {
+    margin-left: -100px;
+    margin-top: -30px;
+    height: 550px;
+    width: 730px;
 }
